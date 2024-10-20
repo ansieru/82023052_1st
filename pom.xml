@@ -11,7 +11,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>cloudsample</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>cloudsample</name>
+	<name>82023052</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
@@ -30,16 +30,17 @@
 		<java.version>17</java.version>
 	</properties>
 	<repositories>
+		<!-- lib import용 repo 설정 -->
 		<repository>
 		<id>github</id>
-		<url>https://maven.pkg.github.com/axccoe/cloud-sample</url>
+		<url>https://maven.pkg.github.com/ansieru/82023052</url>
 		</repository>
 	</repositories>
 	<distributionManagement>
 		<repository>
 		<id>github</id>
-		<name>GitHub axccoe Apache Maven Packages</name>
-		<url>https://maven.pkg.github.com/axccoe/cloud-sample</url>
+		<name>GitHub ansieru Apache Maven Packages</name>
+		<url>https://maven.pkg.github.com/ansieru/82023052</url>
 		</repository>
 	</distributionManagement>
 
