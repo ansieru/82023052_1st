@@ -1,0 +1,149 @@
+[33mcommit 1cacecf474f7f8ef550589e8eea01fcb7eb4f27b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/dev[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ansieru <136054228+ansieru@users.noreply.github.com>
+Date:   Sun Oct 20 23:44:00 2024 +0900
+
+    Update pom.xml
+
+[33mcommit 711688641b78bedeed4bf42af607530fd6a9d7ba[m
+Merge: 06d73dc 67bcd9a
+Author: 임재진 <yamsroun@gmail.com>
+Date:   Mon Sep 30 15:59:11 2024 +0900
+
+    Merge pull request #1 from axccoe/feature/gradle-jar-disabled
+    
+    feat: build.gradle에 jar.enabled=false 설정
+
+[33mcommit 67bcd9a9bdc00896bf77d2e54de55bac73e73db2[m
+Author: yamsroun <yamsroun@gmail.com>
+Date:   Mon Sep 30 15:55:27 2024 +0900
+
+    feat: build.gradle에 jar.enabled=false 설정
+
+[33mcommit 06d73dcc55ec906662c420141cb9fa72559840b6[m
+Author: dragon262 <dragon262@naver.com>
+Date:   Fri Sep 27 13:50:34 2024 +0900
+
+    Update README.md
+
+[33mcommit 8783d03c4388dbd6734b8a0b7302dfe8a32477ee[m
+Author: dragon262 <dragon262@naver.com>
+Date:   Mon Sep 2 14:24:41 2024 +0900
+
+    Update application-local.yml
+
+[33mcommit 15578c3ea9227a62ba639379baaaf21fd117d3f7[m
+Author: dragon262 <dragon262@naver.com>
+Date:   Mon Sep 2 14:24:15 2024 +0900
+
+    Update application-local.yml
+
+[33mcommit c93b1dd41993299087fe3f5c80e78ffea9019fed[m
+Author: 김민석 <minseok0226@gmail.com>
+Date:   Mon Sep 2 10:47:54 2024 +0900
+
+    github actions workflows 파일 롤백
+
+[33mcommit fdf8e2461cda4267dced4c2b1e456b77df83b2f8[m
+Author: kwon sung soon <stsoon@connectid.co.kr>
+Date:   Fri Aug 30 10:16:04 2024 +0900
+
+    rename argocd,nginx-ingress manifests
+
+[33mcommit 3c77e3a99ba5c72d12e9a2bc78aad5e2f8e71cf5[m
+Merge: f2468ae 48faf39
+Author: kwon sung soon <stsoon@connectid.co.kr>
+Date:   Fri Aug 30 10:12:06 2024 +0900
+
+    Merge branch 'main' of https://github.com/axccoe/cloud-sample
+
+[33mcommit f2468ae790bd0e66511ca7b0f969a316af1b5889[m
+Author: kwon sung soon <stsoon@connectid.co.kr>
+Date:   Fri Aug 30 10:11:51 2024 +0900
+
+    add manifest argocd, nginx-ingress
+
+[33mcommit 48faf392714f0ddae0fd295e32a2727e812efa58[m
+Author: Minseok Kim <40616619+minseok0226@users.noreply.github.com>
+Date:   Tue Aug 27 13:20:19 2024 +0900
+
+    Update deployment.yaml
+    
+    replicas 2 -> 1
+
+[33mcommit 84a03117823e287962cd337558e3f5e2562e78f8[m
+Author: 김민석 <minseok0226@gmail.com>
+Date:   Mon Aug 26 10:32:44 2024 +0900
+
+    ingress manifest 파일 호스트 수정
+
+[33mcommit 578e08b756c79c4a91f3f96e70701e27b4aa7616[m
+Author: Minseok Kim <40616619+minseok0226@users.noreply.github.com>
+Date:   Fri Aug 23 16:22:09 2024 +0900
+
+    Update ci-maven.yml
+
+[33mcommit 3dd5ac81fafb06bb117b703133961eabe1e11b99[m
+Author: hyerin082197 <hyerin082197@gmail.com>
+Date:   Fri Aug 23 15:07:05 2024 +0900
+
+    Update ci-maven.yml
+
+[33mcommit 26921bab1de64b8e8f61e4a21bc82931d9652fca[m
+Author: dragon262 <dragon262@naver.com>
+Date:   Fri Aug 16 15:04:45 2024 +0900
+
+    Update pom.xml
+
+[33mcommit 344e05e2de619294aa088221c8286a3270979d15[m
+Author: dragon262 <dragon262@naver.com>
+Date:   Fri Aug 16 10:46:25 2024 +0900
+
+    Update README.md
+
+[33mcommit 17ee41282115123328d29dffbeff1407e462a485[m
+Author: dragon262 <dragon262@naver.com>
+Date:   Fri Aug 16 10:45:34 2024 +0900
+
+    Update README.md
+
+[33mcommit eeeafc668c94819ab72f12b4252524c2921eaae5[m
+Author: dragon262 <dragon262@naver.com>
+Date:   Fri Aug 16 10:44:51 2024 +0900
+
+    Update README.md
+
+[33mcommit 2de40ce0bbacc86359117deea5367dff19b25ba7[m
+Author: dragon262 <dragon262@naver.com>
+Date:   Fri Aug 16 10:43:37 2024 +0900
+
+    Update README.md
+
+[33mcommit 97ae0e3dd62008f36e9a86fb329b6765d5fc0496[m
+Author: dragon262 <dragon262@naver.com>
+Date:   Fri Aug 16 10:40:50 2024 +0900
+
+    Update ci-gradle.yml
+
+[33mcommit a543cbb177a9554bc3fc5cf9dd62c2b74f0c7ee4[m
+Author: dragon262 <dragon262@naver.com>
+Date:   Fri Aug 16 10:40:02 2024 +0900
+
+    Update ci-gradle.yml
+
+[33mcommit b3670bc3dc8338a81f7cdb7c3f487e05b8d43423[m
+Author: dragon262 <dragon262@naver.com>
+Date:   Fri Aug 16 10:32:35 2024 +0900
+
+    Create ci-maven.yml
+
+[33mcommit 0d5c2b846b9630f68ac92465882d49344c352c5a[m
+Author: dragon262 <dragon262@naver.com>
+Date:   Fri Aug 16 10:31:37 2024 +0900
+
+    Create ci-gradle.yml
+
+[33mcommit b5f4bf3a92ccad2a7cd968a3564a289c5e08f5a3[m
+Author: kwon sung soon <stsoon@connectid.co.kr>
+Date:   Fri Aug 16 10:25:46 2024 +0900
+
+    init
